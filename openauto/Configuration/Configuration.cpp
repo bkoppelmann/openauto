@@ -24,7 +24,7 @@ namespace openauto
 namespace configuration
 {
 
-const std::string Configuration::cConfigFileName = "openauto.ini";
+const std::string Configuration::cConfigFileName = "/home/pi/.config/openauto.ini";
 
 const std::string Configuration::cGeneralShowClockKey = "General.ShowClock";
 const std::string Configuration::cGeneralHandednessOfTrafficTypeKey = "General.HandednessOfTrafficType";
